@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe.config
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.pdb
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.exe
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.pdb
+C:\Users\Metin\source\repos\Metin Form\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Game.resources
